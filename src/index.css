@@ -88,6 +88,7 @@ h1 {
   flex-basis: 15%;
   background-color: #00a1ff;
   color: #fff;
+  cursor: pointer;
 }
 
 /* no-items*/
